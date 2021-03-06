@@ -103,6 +103,16 @@ aside{
 footer{
     grid-area: 4/1/5/11;
     display: flex;
+    flex-direction: column;
+}
+
+.picture{
+    text-align: left;
+    border-right: 1px solid grey;
+    width: 33.33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-around;
     height: 150px;
 }
