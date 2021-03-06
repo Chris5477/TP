@@ -1,1 +1,4 @@
-Premiere version du TP proposé par Open class rooms
+
+Modification HTML
+Modification CSS 
+Arrangement de la maquette
