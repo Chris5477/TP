@@ -1,1 +1,3 @@
-Travail du CSS en cours et ajout des sources pour le site
+Modification HTML
+Modification CSS 
+Arrangement de la maquette
